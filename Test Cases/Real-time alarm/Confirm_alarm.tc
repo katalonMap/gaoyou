@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>确认告警</description>
+   <name>Confirm_alarm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe756cbb-300f-4a4a-b392-f2f40dfd170f</testCaseGuid>
+</TestCaseEntity>

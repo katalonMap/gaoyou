@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>选中记录</description>
+   <name>check_alarm</name>
+   <tag></tag>
+   <elementGuidId>0caaf3af-1329-40ae-91b3-5228bc146bcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='table_tbody']/tr[1]/td[2]/span/label</value>
+   </webElementProperties>
+</WebElementEntity>

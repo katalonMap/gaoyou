@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>修改设备序列号</description>
+   <name>update-deviceno</name>
+   <tag></tag>
+   <elementGuidId>b02766aa-2ead-4206-9b7c-7ce3a27fce6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class='content']/p[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>查询设备</description>
+   <name>search_device</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afcce34a-e32e-49a1-9641-e0174e45510e</testCaseGuid>
+</TestCaseEntity>

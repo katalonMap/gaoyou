@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>区域下拉选择</description>
+   <name>area</name>
+   <tag></tag>
+   <elementGuidId>32fd6b4e-df0f-41ea-9bdb-9071ce58f691</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>right-area-input</value>
+   </webElementProperties>
+</WebElementEntity>

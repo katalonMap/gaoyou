@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>wifi控制</description>
+   <name>wifi_set</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76e326d8-0396-45bf-a70a-88332e68a91f</testCaseGuid>
+</TestCaseEntity>

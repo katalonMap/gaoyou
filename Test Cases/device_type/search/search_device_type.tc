@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>查询设备类型</description>
+   <name>search_device_type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ff9d060-d5a5-4a4b-863c-e632ce835f47</testCaseGuid>
+</TestCaseEntity>

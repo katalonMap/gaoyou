@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>删除区域</description>
+   <name>delete_area</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b2c4469-4583-473c-8a70-7c20e72dc93c</testCaseGuid>
+</TestCaseEntity>

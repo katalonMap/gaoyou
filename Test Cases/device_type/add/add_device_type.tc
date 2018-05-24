@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>新增设备类型</description>
+   <name>add_device_type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53e5f3d6-e663-42b0-9132-f4fcb397ca3d</testCaseGuid>
+</TestCaseEntity>

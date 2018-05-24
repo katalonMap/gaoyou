@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>选择告警级别值</description>
+   <name>level_valus</name>
+   <tag></tag>
+   <elementGuidId>84abc323-4d0b-4c52-915f-2bc1ce167ba0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='searchItem0']/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='searchItem0']/ul/li[3]</value>
+   </webElementProperties>
+</WebElementEntity>

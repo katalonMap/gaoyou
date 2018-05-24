@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>新增区域名称</description>
+   <name>add_area</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4ee5310-e6af-4676-b13d-1159c0851e56</testCaseGuid>
+</TestCaseEntity>

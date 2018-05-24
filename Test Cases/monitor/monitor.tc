@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>实时监控</description>
+   <name>monitor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ca370c5-d6b9-415a-a34c-bf11e012bbb6</testCaseGuid>
+</TestCaseEntity>

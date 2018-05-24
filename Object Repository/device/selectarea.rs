@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>选择区域</description>
+   <name>selectarea</name>
+   <tag></tag>
+   <elementGuidId>14151ead-a567-44bc-b263-839dc3ffee02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class='tree']/ul[1]/li[1]/ul[1]/ul/li[1]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class='tree']/ul[1]/li[1]/ul[1]/ul/li[1]/div/span</value>
+   </webElementProperties>
+</WebElementEntity>

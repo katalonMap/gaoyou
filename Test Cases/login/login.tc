@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登录功能</description>
+   <name>login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53a1cf78-abde-49ae-a763-985c516bd076</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.gy_username</defaultValue>
+      <description></description>
+      <id>78b571b4-0a31-458a-b05a-46801c3b363d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

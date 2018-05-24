@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>搜索告警记录</description>
+   <name>Search for alarm records</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9329af0c-7c3d-4f53-ad8b-4b47aaf4f654</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>首级区域的三角标</description>
+   <name>shouji_icon</name>
+   <tag></tag>
+   <elementGuidId>d036c479-58a6-44f2-9fd0-ca2c65138f84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>areaIco1</value>
+   </webElementProperties>
+</WebElementEntity>

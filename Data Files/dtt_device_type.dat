@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>dtt_device_type</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>f0add0ba-1b1c-4d15-810b-57d896aae702</dataFileGUID>
+   <dataSourceUrl>jdbc:mysql://10.17.5.114:3306/gaoyou</dataSourceUrl>
+   <driver>DBData</driver>
+   <isInternalPath>false</isInternalPath>
+   <password>MTIzNC5jb21AU0g=</password>
+   <query>SELECT * FROM dtt_device_type WHERE is_deleted=0</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>gaoyou</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

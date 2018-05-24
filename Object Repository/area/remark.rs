@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>备注</description>
+   <name>remark</name>
+   <tag></tag>
+   <elementGuidId>95b49717-efe4-4eb9-bf54-3c974d8c0c97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div[2]/div/div[3]/div/div/div[4]/div/div/div[2]/div/div/div[1]/div[3]/textarea</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

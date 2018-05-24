@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <tag></tag>
+   <GlobalVariableEntity>
+      <description>登录用户名</description>
+      <initValue>'13774513098'</initValue>
+      <name>gy_username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>登录密码</description>
+      <initValue>'123456'</initValue>
+      <name>gy_userpwd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>高邮平台的登录url路径</description>
+      <initValue>'http://10.17.5.113'</initValue>
+      <name>gy_url</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

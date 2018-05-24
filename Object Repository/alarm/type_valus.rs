@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>选择告警类型值</description>
+   <name>type_valus</name>
+   <tag></tag>
+   <elementGuidId>2c01b766-9905-4baa-a024-3e6d2c0eda39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class='fr']/div[3]/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class='fr']/div[3]/ul/li[3]</value>
+   </webElementProperties>
+</WebElementEntity>

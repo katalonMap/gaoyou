@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>点击第2层级区域名称前的三角标</description>
+   <name>second_icon2</name>
+   <tag></tag>
+   <elementGuidId>a2e9e340-8f54-46fa-a237-bc2c07b2e95e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>areaIco3</value>
+   </webElementProperties>
+</WebElementEntity>

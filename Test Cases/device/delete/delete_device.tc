@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>删除设备</description>
+   <name>delete_device</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2860625-83e8-42ac-8697-6c1164b2018a</testCaseGuid>
+</TestCaseEntity>

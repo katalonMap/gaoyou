@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>区域搜索</description>
+   <name>area_search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c18d23d-c1e4-414e-a104-802da8f0db63</testCaseGuid>
+</TestCaseEntity>

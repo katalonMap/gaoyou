@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="gaoyou" time="24" tests="3" failures="0" errors="0">
+   <testsuite name="gaoyou" tests="3" failures="0" errors="0" time="24" timestamp="2018-05-03 17:21:54" hostname="jcgroup - jcgroup-PC" id="Test Suites/gaoyou">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\Katalon Studio\\gaoyou\\Reports\\gaoyou\\20180503_172153"/>
+         <property name="logFiles" value="E:\\Katalon Studio\\gaoyou\\Reports\\gaoyou\\20180503_172153\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="jcgroup - jcgroup-PC"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+         <property name="browser" value="Chrome 65.0.3325.181"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="d9f53d4544807c0071d60f5e6f4b4cb7"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/wifi control/Record" classname="Test Cases/wifi control/Record" status="PASSED">
+         <system-out><![CDATA[2018-05-03 17:21:54 - [TEST_CASE][PASSED] - Test Cases/wifi control/Record: Test Cases/wifi control/Record
+
+2018-05-03 17:21:54 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/denglu/login' successfully
+
+2018-05-03 17:21:54 - [TEST_CASE][PASSED] - Test Cases/denglu/login: Test Cases/denglu/login
+
+2018-05-03 17:21:55 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://10.17.5.113/#/login?redirect=%2Fcontroller'
+
+2018-05-03 17:22:00 - [MESSAGE][PASSED] - Browser is opened with url: 'http://10.17.5.113/#/login?redirect=%2Fcontroller'
+
+2018-05-03 17:22:00 - [TEST_STEP][PASSED] - setText: Text '13774513098' is set on object 'Object Repository/LOGIN/username'
+
+2018-05-03 17:22:00 - [MESSAGE][PASSED] - Text '13774513098' is set on object 'Object Repository/LOGIN/username'
+
+2018-05-03 17:22:00 - [TEST_STEP][PASSED] - setText: Text '123456' is set on object 'Object Repository/LOGIN/userpwd'
+
+2018-05-03 17:22:00 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/LOGIN/userpwd'
+
+2018-05-03 17:22:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LOGIN/userlogin' is clicked on
+
+2018-05-03 17:22:00 - [MESSAGE][PASSED] - Object: 'Object Repository/LOGIN/userlogin' is clicked on
+
+2018-05-03 17:22:00 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/denglu/login' successfully
+
+2018-05-03 17:22:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/wifi/WiFi image' is clicked on
+
+2018-05-03 17:22:02 - [MESSAGE][PASSED] - Object: 'Object Repository/wifi/WiFi image' is clicked on
+
+2018-05-03 17:22:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/wifi/page' is clicked on
+
+2018-05-03 17:22:02 - [MESSAGE][PASSED] - Object: 'Object Repository/wifi/page' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/wifi control/region search" classname="Test Cases/wifi control/region search" status="PASSED">
+         <system-out><![CDATA[2018-05-03 17:22:02 - [TEST_CASE][PASSED] - Test Cases/wifi control/region search: Test Cases/wifi control/region search
+
+2018-05-03 17:22:02 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/denglu/login' successfully
+
+2018-05-03 17:22:02 - [TEST_CASE][PASSED] - Test Cases/denglu/login: Test Cases/denglu/login
+
+2018-05-03 17:22:02 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://10.17.5.113/#/login?redirect=%2Fcontroller'
+
+2018-05-03 17:22:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-05-03 17:22:07 - [MESSAGE][PASSED] - Browser is opened with url: 'http://10.17.5.113/#/login?redirect=%2Fcontroller'
+
+2018-05-03 17:22:07 - [TEST_STEP][PASSED] - setText: Text '13774513098' is set on object 'Object Repository/LOGIN/username'
+
+2018-05-03 17:22:08 - [MESSAGE][PASSED] - Text '13774513098' is set on object 'Object Repository/LOGIN/username'
+
+2018-05-03 17:22:08 - [TEST_STEP][PASSED] - setText: Text '123456' is set on object 'Object Repository/LOGIN/userpwd'
+
+2018-05-03 17:22:08 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/LOGIN/userpwd'
+
+2018-05-03 17:22:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LOGIN/userlogin' is clicked on
+
+2018-05-03 17:22:08 - [MESSAGE][PASSED] - Object: 'Object Repository/LOGIN/userlogin' is clicked on
+
+2018-05-03 17:22:08 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/denglu/login' successfully
+
+2018-05-03 17:22:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/wifi/WiFi image' is clicked on
+
+2018-05-03 17:22:09 - [MESSAGE][PASSED] - Object: 'Object Repository/wifi/WiFi image' is clicked on
+
+2018-05-03 17:22:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/wifi/serch' is clicked on
+
+2018-05-03 17:22:09 - [MESSAGE][PASSED] - Object: 'Object Repository/wifi/serch' is clicked on
+
+2018-05-03 17:22:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/wifi/icon' is clicked on
+
+2018-05-03 17:22:09 - [MESSAGE][PASSED] - Object: 'Object Repository/wifi/icon' is clicked on
+
+2018-05-03 17:22:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/wifi/icon2' is clicked on
+
+2018-05-03 17:22:09 - [MESSAGE][PASSED] - Object: 'Object Repository/wifi/icon2' is clicked on
+
+2018-05-03 17:22:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/wifi/title' is clicked on
+
+2018-05-03 17:22:09 - [MESSAGE][PASSED] - Object: 'Object Repository/wifi/title' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/wifi control/wifi set" classname="Test Cases/wifi control/wifi set" status="PASSED">
+         <system-out><![CDATA[2018-05-03 17:22:09 - [TEST_CASE][PASSED] - Test Cases/wifi control/wifi set: Test Cases/wifi control/wifi set
+
+2018-05-03 17:22:10 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/denglu/login' successfully
+
+2018-05-03 17:22:10 - [TEST_CASE][PASSED] - Test Cases/denglu/login: Test Cases/denglu/login
+
+2018-05-03 17:22:10 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://10.17.5.113/#/login?redirect=%2Fcontroller'
+
+2018-05-03 17:22:10 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-05-03 17:22:15 - [MESSAGE][PASSED] - Browser is opened with url: 'http://10.17.5.113/#/login?redirect=%2Fcontroller'
+
+2018-05-03 17:22:15 - [TEST_STEP][PASSED] - setText: Text '13774513098' is set on object 'Object Repository/LOGIN/username'
+
+2018-05-03 17:22:15 - [MESSAGE][PASSED] - Text '13774513098' is set on object 'Object Repository/LOGIN/username'
+
+2018-05-03 17:22:15 - [TEST_STEP][PASSED] - setText: Text '123456' is set on object 'Object Repository/LOGIN/userpwd'
+
+2018-05-03 17:22:15 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/LOGIN/userpwd'
+
+2018-05-03 17:22:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LOGIN/userlogin' is clicked on
+
+2018-05-03 17:22:15 - [MESSAGE][PASSED] - Object: 'Object Repository/LOGIN/userlogin' is clicked on
+
+2018-05-03 17:22:15 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/denglu/login' successfully
+
+2018-05-03 17:22:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/wifi/WiFi image' is clicked on
+
+2018-05-03 17:22:16 - [MESSAGE][PASSED] - Object: 'Object Repository/wifi/WiFi image' is clicked on
+
+2018-05-03 17:22:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/wifi/check' is clicked on
+
+2018-05-03 17:22:17 - [MESSAGE][PASSED] - Object: 'Object Repository/wifi/check' is clicked on
+
+2018-05-03 17:22:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/wifi/edit' is clicked on
+
+2018-05-03 17:22:17 - [MESSAGE][PASSED] - Object: 'Object Repository/wifi/edit' is clicked on
+
+2018-05-03 17:22:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/wifi/drop-down' is clicked on
+
+2018-05-03 17:22:17 - [MESSAGE][PASSED] - Object: 'Object Repository/wifi/drop-down' is clicked on
+
+2018-05-03 17:22:17 - [TEST_STEP][PASSED] - check: Object 'Object Repository/wifi/checkon' is checked
+
+2018-05-03 17:22:17 - [MESSAGE][PASSED] - Object 'Object Repository/wifi/checkon' is checked
+
+2018-05-03 17:22:17 - [TEST_STEP][PASSED] - setText: Text '120' is set on object 'Object Repository/wifi/speed limit'
+
+2018-05-03 17:22:17 - [MESSAGE][PASSED] - Text '120' is set on object 'Object Repository/wifi/speed limit'
+
+2018-05-03 17:22:17 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/wifi/power limit'
+
+2018-05-03 17:22:18 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/wifi/power limit'
+
+2018-05-03 17:22:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/wifi/confirm' is clicked on
+
+2018-05-03 17:22:18 - [MESSAGE][PASSED] - Object: 'Object Repository/wifi/confirm' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-03 17:21:54 - [TEST_SUITE][PASSED] - gaoyou: Test Cases/wifi control/wifi set]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
